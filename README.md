@@ -1,2 +1,9 @@
-# sn-ReactNextJs-1
-ReactNextJsStudy
+<h1 align="center"> <code>https://github.com/sniffowomo/sn-ReactNextJs-1 </code> </h1>
+<h2 align="center"> <i> NextJS and Vite Quick Study </i> </h2>
+
+1. [What ?](#what-)
+
+# What ?
+
+1. This is going to be your learning of Vite and NextJS
+2. Simple study , and not entire webapp building
