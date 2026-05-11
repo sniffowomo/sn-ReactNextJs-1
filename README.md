@@ -11,6 +11,6 @@
 
 # Dirz
 
-| Dir  | What |
-| :--: | :--: |
-| []() |  xx  |
+|         Dir         |    What    |
+| :-----------------: | :--------: |
+| [`vites`](./vites/) | Vite Study |
