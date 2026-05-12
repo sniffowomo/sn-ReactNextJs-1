@@ -16,3 +16,393 @@ Executing:[1;95mcurl ipinfo.io[0m
 
 
 
+
+
+
+[1;94m · · ────── ꒰ঌ·✦·໒꒱ ────── · ·
+[1;94m · · ────── PantySmellling ────── · ·
+[1;94m · · ────── ꒰ঌ·✦·໒꒱ ────── · ·
+Tue May 12 06:59:56 PM UTC 2026
+Executing:[1;95mbun create vite[0m
+[?25l│
+◆  Project name:
+│  vite-project
+└
+[999D[4A[2B[2K[G│  .█[2B[999D[4A[1B[J◇  Project name:
+│  .
+[?25h[?25l│
+◆  Current directory is not empty. Please choose how to proceed:
+│  ● Cancel operation
+│  ○ Remove existing files and continue
+│  ○ Ignore files and continue
+└
+[999D[6A[2B[J│  ○ Cancel operation
+│  ○ Remove existing files and continue
+│  ● Ignore files and continue
+└
+[999D[6A[1B[J◇  Current directory is not empty. Please choose how to proceed:
+│  Ignore files and continue
+[?25h[?25l│
+◆  Select a framework:
+│  ● Vanilla
+│  ○ Vue
+│  ○ React
+│  ○ Preact
+│  ○ Lit
+│  ○ Svelte
+│  ○ Solid
+│  ○ Ember
+│  ○ Qwik
+│  ○ Angular
+│  ○ Marko
+│  ○ Others
+└
+[999D[15A[2B[J│  ○ Vanilla
+│  ● Vue
+│  ○ React
+│  ○ Preact
+│  ○ Lit
+│  ○ Svelte
+│  ○ Solid
+│  ○ Ember
+│  ○ Qwik
+│  ○ Angular
+│  ○ Marko
+│  ○ Others
+└
+[999D[15A[3B[J│  ○ Vue
+│  ● React
+│  ○ Preact
+│  ○ Lit
+│  ○ Svelte
+│  ○ Solid
+│  ○ Ember
+│  ○ Qwik
+│  ○ Angular
+│  ○ Marko
+│  ○ Others
+└
+[999D[15A[1B[J◇  Select a framework:
+│  React
+[?25h[?25l│
+◆  Select a variant:
+│  ● TypeScript
+│  ○ TypeScript + React Compiler
+│  ○ JavaScript
+│  ○ JavaScript + React Compiler
+│  ○ RSC
+│  ○ React Router v7 ↗ https://reactrouter.com
+│  ○ TanStack Router ↗ https://tanstack.com/router
+│  ○ RedwoodSDK ↗ https://rwsdk.com
+│  ○ Vike ↗ https://vike.dev
+└
+[999D[12A[1B[J■  Select a variant:
+│  TypeScript
+│
+[?25h└  Operation cancelled
+
+[1;92mDone!
+───── ⋆⋅☆⋅⋆ ─────[0m
+───── ⋆⋅☆⋅⋆ ─────[0m
+───── ⋆⋅☆⋅⋆ ─────[0m
+
+
+
+
+
+
+[1;94m · · ────── ꒰ঌ·✦·໒꒱ ────── · ·
+[1;94m · · ────── PantySmellling ────── · ·
+[1;94m · · ────── ꒰ঌ·✦·໒꒱ ────── · ·
+Tue May 12 07:01:55 PM UTC 2026
+Executing:[1;95mbun create vite[0m
+[?25l│
+◆  Project name:
+│  vite-project
+└
+[999D[4A[2B[2K[G│  .█[2B[999D[4A[1B[J◇  Project name:
+│  .
+[?25h[?25l│
+◆  Current directory is not empty. Please choose how to proceed:
+│  ● Cancel operation
+│  ○ Remove existing files and continue
+│  ○ Ignore files and continue
+└
+[999D[6A[2B[J│  ○ Cancel operation
+│  ○ Remove existing files and continue
+│  ● Ignore files and continue
+└
+[999D[6A[1B[J◇  Current directory is not empty. Please choose how to proceed:
+│  Ignore files and continue
+[?25h[?25l│
+◆  Select a framework:
+│  ● Vanilla
+│  ○ Vue
+│  ○ React
+│  ○ Preact
+│  ○ Lit
+│  ○ Svelte
+│  ○ Solid
+│  ○ Ember
+│  ○ Qwik
+│  ○ Angular
+│  ○ Marko
+│  ○ Others
+└
+[999D[15A[2B[J│  ○ Vanilla
+│  ● Vue
+│  ○ React
+│  ○ Preact
+│  ○ Lit
+│  ○ Svelte
+│  ○ Solid
+│  ○ Ember
+│  ○ Qwik
+│  ○ Angular
+│  ○ Marko
+│  ○ Others
+└
+[999D[15A[2B[J│  ● Vanilla
+│  ○ Vue
+│  ○ React
+│  ○ Preact
+│  ○ Lit
+│  ○ Svelte
+│  ○ Solid
+│  ○ Ember
+│  ○ Qwik
+│  ○ Angular
+│  ○ Marko
+│  ○ Others
+└
+[999D[15A[2B[J│  ○ Vanilla
+│  ○ Vue
+│  ○ React
+│  ○ Preact
+│  ○ Lit
+│  ○ Svelte
+│  ○ Solid
+│  ○ Ember
+│  ○ Qwik
+│  ○ Angular
+│  ○ Marko
+│  ● Others
+└
+[999D[15A[12B[J│  ● Marko
+│  ○ Others
+└
+[999D[15A[11B[J│  ● Angular
+│  ○ Marko
+│  ○ Others
+└
+[999D[15A[10B[J│  ● Qwik
+│  ○ Angular
+│  ○ Marko
+│  ○ Others
+└
+[999D[15A[9B[J│  ● Ember
+│  ○ Qwik
+│  ○ Angular
+│  ○ Marko
+│  ○ Others
+└
+[999D[15A[8B[J│  ● Solid
+│  ○ Ember
+│  ○ Qwik
+│  ○ Angular
+│  ○ Marko
+│  ○ Others
+└
+[999D[15A[7B[J│  ● Svelte
+│  ○ Solid
+│  ○ Ember
+│  ○ Qwik
+│  ○ Angular
+│  ○ Marko
+│  ○ Others
+└
+[999D[15A[6B[J│  ● Lit
+│  ○ Svelte
+│  ○ Solid
+│  ○ Ember
+│  ○ Qwik
+│  ○ Angular
+│  ○ Marko
+│  ○ Others
+└
+[999D[15A[5B[J│  ● Preact
+│  ○ Lit
+│  ○ Svelte
+│  ○ Solid
+│  ○ Ember
+│  ○ Qwik
+│  ○ Angular
+│  ○ Marko
+│  ○ Others
+└
+[999D[15A[4B[J│  ● React
+│  ○ Preact
+│  ○ Lit
+│  ○ Svelte
+│  ○ Solid
+│  ○ Ember
+│  ○ Qwik
+│  ○ Angular
+│  ○ Marko
+│  ○ Others
+└
+[999D[15A[3B[J│  ● Vue
+│  ○ React
+│  ○ Preact
+│  ○ Lit
+│  ○ Svelte
+│  ○ Solid
+│  ○ Ember
+│  ○ Qwik
+│  ○ Angular
+│  ○ Marko
+│  ○ Others
+└
+[999D[15A[2B[J│  ● Vanilla
+│  ○ Vue
+│  ○ React
+│  ○ Preact
+│  ○ Lit
+│  ○ Svelte
+│  ○ Solid
+│  ○ Ember
+│  ○ Qwik
+│  ○ Angular
+│  ○ Marko
+│  ○ Others
+└
+[999D[15A[2B[J│  ○ Vanilla
+│  ○ Vue
+│  ○ React
+│  ○ Preact
+│  ○ Lit
+│  ○ Svelte
+│  ○ Solid
+│  ○ Ember
+│  ○ Qwik
+│  ○ Angular
+│  ○ Marko
+│  ● Others
+└
+[999D[15A[12B[J│  ● Marko
+│  ○ Others
+└
+[999D[15A[12B[J│  ○ Marko
+│  ● Others
+└
+[999D[15A[2B[J│  ● Vanilla
+│  ○ Vue
+│  ○ React
+│  ○ Preact
+│  ○ Lit
+│  ○ Svelte
+│  ○ Solid
+│  ○ Ember
+│  ○ Qwik
+│  ○ Angular
+│  ○ Marko
+│  ○ Others
+└
+[999D[15A[2B[J│  ○ Vanilla
+│  ● Vue
+│  ○ React
+│  ○ Preact
+│  ○ Lit
+│  ○ Svelte
+│  ○ Solid
+│  ○ Ember
+│  ○ Qwik
+│  ○ Angular
+│  ○ Marko
+│  ○ Others
+└
+[999D[15A[2B[J│  ● Vanilla
+│  ○ Vue
+│  ○ React
+│  ○ Preact
+│  ○ Lit
+│  ○ Svelte
+│  ○ Solid
+│  ○ Ember
+│  ○ Qwik
+│  ○ Angular
+│  ○ Marko
+│  ○ Others
+└
+[999D[15A[2B[J│  ○ Vanilla
+│  ● Vue
+│  ○ React
+│  ○ Preact
+│  ○ Lit
+│  ○ Svelte
+│  ○ Solid
+│  ○ Ember
+│  ○ Qwik
+│  ○ Angular
+│  ○ Marko
+│  ○ Others
+└
+[999D[15A[3B[J│  ○ Vue
+│  ● React
+│  ○ Preact
+│  ○ Lit
+│  ○ Svelte
+│  ○ Solid
+│  ○ Ember
+│  ○ Qwik
+│  ○ Angular
+│  ○ Marko
+│  ○ Others
+└
+[999D[15A[1B[J◇  Select a framework:
+│  React
+[?25h[?25l│
+◆  Select a variant:
+│  ● TypeScript
+│  ○ TypeScript + React Compiler
+│  ○ JavaScript
+│  ○ JavaScript + React Compiler
+│  ○ RSC
+│  ○ React Router v7 ↗ https://reactrouter.com
+│  ○ TanStack Router ↗ https://tanstack.com/router
+│  ○ RedwoodSDK ↗ https://rwsdk.com
+│  ○ Vike ↗ https://vike.dev
+└
+[999D[12A[2B[J│  ○ TypeScript
+│  ● TypeScript + React Compiler
+│  ○ JavaScript
+│  ○ JavaScript + React Compiler
+│  ○ RSC
+│  ○ React Router v7 ↗ https://reactrouter.com
+│  ○ TanStack Router ↗ https://tanstack.com/router
+│  ○ RedwoodSDK ↗ https://rwsdk.com
+│  ○ Vike ↗ https://vike.dev
+└
+[999D[12A[3B[J│  ○ TypeScript + React Compiler
+│  ● JavaScript
+│  ○ JavaScript + React Compiler
+│  ○ RSC
+│  ○ React Router v7 ↗ https://reactrouter.com
+│  ○ TanStack Router ↗ https://tanstack.com/router
+│  ○ RedwoodSDK ↗ https://rwsdk.com
+│  ○ Vike ↗ https://vike.dev
+└
+[999D[12A[1B[J◇  Select a variant:
+│  JavaScript
+[?25h[?25l│
+◆  Install with bun and start now?
+│  ● Yes / ○ No
+└
+[999D[4A[1B[J◇  Install with bun and start now?
+│  Yes
+[?25h│
+◇  Scaffolding project in /workspaces/sn-ReactNextJs-1/vites/v1...
+│
+◇  Installing dependencies with bun...
+bun install v1.3.13 (bf2e2cec)
+Resolving dependencies

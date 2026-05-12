@@ -32,9 +32,15 @@ pussy1() {
 		# Note this also for updating
 		"curl ipinfo.io"
 
+		#1 - Making a new vite project
+		"bun create vite"
+
+		#2 - Intalling TailwindCSS
+		"bun install tailwindcss @tailwindcss/vite"
+
 	)
 
-	CMDEXEC="${CMD[0]}"
+	CMDEXEC="${CMD[1]}"
 	echo -e ""
 	echo -e ""
 	echo -e ""
