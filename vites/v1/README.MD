@@ -2,6 +2,7 @@
 
 1. [What](#what)
 2. [Dirz](#dirz)
+3. [Current Deployed](#current-deployed)
 
 # What
 
@@ -13,3 +14,9 @@
 | :----------------: | :--------------------------: |
 |  [`lgz`](./lgz/)   | logz from [`s1.sh`](./s1.sh) |
 | [`s1.sh`](./s1.sh) |   Script for ini commands    |
+
+# Current Deployed
+
+https://sn-reactnextjs1-v1.vercel.app/
+
+- actively deployed with Ogimage and favicon
