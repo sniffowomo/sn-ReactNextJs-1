@@ -43,7 +43,7 @@ function App() {
             <code className="bg-slate-700 px-2 py-1 rounded-md text-purple-300">
               src/App.jsx
             </code>
-            and save to test{' '}
+            and save to booty{' '}
             <code className="bg-slate-700 px-2 py-1 rounded-md text-purple-300">
               HMR
             </code>
