@@ -1,0 +1,21 @@
+./ini.sh: line 36: CMD[4]: unbound variable
+./ini.sh: line 36: CMD[4]: unbound variable
+[1;94m · · ────── ꒰ঌ·✦·໒꒱ ────── · ·
+[1;94m · · ────── PantySmellling ────── · ·
+[1;94m · · ────── ꒰ঌ·✦·໒꒱ ────── · ·
+Tue May 12 06:36:57 PM UTC 2026
+Executing:[1;95mbun add -g vercel[0m
+bun add v1.3.13 (bf2e2cec)
+Resolving dependencies
+Resolved, downloaded and extracted [1263]
+Saved lockfile
+
+installed vercel@53.4.0 with binaries:
+ - vc
+ - vercel
+
+299 packages installed [4.38s]
+[1;92mDone!
+───── ⋆⋅☆⋅⋆ ─────[0m
+───── ⋆⋅☆⋅⋆ ─────[0m
+───── ⋆⋅☆⋅⋆ ─────[0m

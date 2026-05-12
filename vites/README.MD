@@ -12,3 +12,4 @@
 |      Dir      |        What         |
 | :-----------: | :-----------------: |
 | [`sc`](./sc/) | Scripts stored here |
+| [`v1`](./v1/) |       Vite v1       |

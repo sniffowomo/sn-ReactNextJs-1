@@ -11,6 +11,7 @@
 
 # Dirz
 
-|         Dir         |    What    |
-| :-----------------: | :--------: |
-| [`vites`](./vites/) | Vite Study |
+|          Dir          |              What              |
+| :-------------------: | :----------------------------: |
+|  [`vites`](./vites/)  |           Vite Study           |
+| [`ini.sh`](./ini.sh/) | Initializing Various Cmommands |

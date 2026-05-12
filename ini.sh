@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 #---------------------------------
-# s1.sh - Running Impo Commands
+# ini.sh - Initializing various tools
 #---------------------------------
 
 # /// Housekeeping ///
@@ -30,14 +30,11 @@ pussy1() {
 
 		#0 -  Step1 - Install the vercel cli tool as stated here -https://vercel.com/docs/cli
 		# Note this also for updating
-		"bun add -g vercel "
+		"bun add -g vercel"
 
 	)
 
 	CMDEXEC="${CMD[0]}"
-	echo -e ""
-	echo -e ""
-	echo -e ""
 	echo -e "${BBLUE} · · ────── ꒰ঌ·✦·໒꒱ ────── · ·"
 	echo -e "${BBLUE} · · ────── PantySmellling ────── · ·"
 	echo -e "${BBLUE} · · ────── ꒰ঌ·✦·໒꒱ ────── · ·"
@@ -48,9 +45,6 @@ pussy1() {
 	echo -e "───── ⋆⋅☆⋅⋆ ─────${RESET}"
 	echo -e "───── ⋆⋅☆⋅⋆ ─────${RESET}"
 	echo -e "───── ⋆⋅☆⋅⋆ ─────${RESET}"
-	echo -e ""
-	echo -e ""
-	echo -e ""
 }
 
 # Looping Booties
@@ -78,7 +72,7 @@ booty1() {
 # /// Execiton ///
 
 panty() {
-	pussy1 2>&1 | tee -a sc/logz/s1.sh.txt
+	pussy1 2>&1 | tee -a logz/ini.sh.txt
 	# booty1 2>&1 | tee -a logz/bootylick.txt
 
 }
